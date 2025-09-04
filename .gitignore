@@ -1,8 +1,14 @@
 **
 !.gitignore
-!.config/
+!.config
 !.config/nvim
 !.config/rofi
 !.config/hypr
 !.config/hyde
 !.config/kitty
+
+!.config/nvim/*
+!.config/rofi/*
+!.config/hypr/*
+!.config/hyde/*
+!.config/kitty/*
