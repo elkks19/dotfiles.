@@ -1,6 +1,8 @@
-**/**
+**
 !.gitignore
-!.config/nvim/
-!.config/rofi/
-!.config/hypr/
-!.config/hyde/
+!.config/
+!.config/nvim
+!.config/rofi
+!.config/hypr
+!.config/hyde
+!.config/kitty
