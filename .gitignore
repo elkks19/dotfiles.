@@ -1,0 +1,6 @@
+**/**
+!.gitignore
+!.config/nvim/
+!.config/rofi/
+!.config/hypr/
+!.config/hyde/
